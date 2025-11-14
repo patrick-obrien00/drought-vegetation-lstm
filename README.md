@@ -4,6 +4,8 @@
 Utrecht University, Department of Geosciences  
 Author: Patrick O'Brien | July 2025
 
+Full thesis available here https://drive.google.com/file/d/16BreOe5XWSXOMhIB8GaNRY1_FnuG7VZN/view?usp=sharing
+
 ## 📖 Overview
 
 This repository contains the code and analysis for my master's thesis, which develops a Long Short-Term Memory (LSTM) deep learning model to predict vegetation health (Enhanced Vegetation Index - EVI) across Southern Africa under varying climate conditions, with a focus on drought impacts and recovery dynamics.
@@ -66,11 +68,11 @@ This repository contains the code and analysis for my master's thesis, which dev
 ├── main/                # Feature ablation, sensitivity analysis, counterfactuals
 ├── results_plots/                 # Output figures, maps, and performance metrics
 ├── scenarios/
-├── Obrien_Patrick_thesis_4813898.pdf    # Full thesis document
 └── README.md
 ```
 
-
+## 📄 Full Thesis
+Full thesis available here https://drive.google.com/file/d/16BreOe5XWSXOMhIB8GaNRY1_FnuG7VZN/view?usp=sharing
 
 ## 🙏 Acknowledgments
 
